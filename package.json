@@ -1,0 +1,12 @@
+{
+  "name": "@1024pix/eslint-plugin",
+  "version": "0.0.0",
+  "description": "Des règles de lint pour les projets 1024pix",
+  "main": "index.js",
+  "scripts": {
+    "test": "node rules/*.test.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
