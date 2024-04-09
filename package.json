@@ -2,11 +2,16 @@
   "name": "@1024pix/eslint-plugin",
   "version": "1.1.2",
   "description": "Des règles de lint pour les projets 1024pix",
-  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "type": "module",
   "scripts": {
-    "test": "node rules/*.test.js"
+    "test": "ava"
   },
   "devDependencies": {
-    "eslint": "^8.50.0"
+    "ava": "^6.1.2",
+    "eslint": "^9.0.0",
+    "eslint-ava-rule-tester": "^5.0.1"
   }
 }

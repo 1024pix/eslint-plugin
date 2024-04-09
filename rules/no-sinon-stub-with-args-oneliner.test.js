@@ -1,11 +1,9 @@
-'use strict';
+import test from 'ava';
+import AvaRuleTester from 'eslint-ava-rule-tester';
 
-const rule = require('./no-sinon-stub-with-args-oneliner.js'),
-  RuleTester = require('eslint').RuleTester;
+import rule from './no-sinon-stub-with-args-oneliner.js';
 
-const ruleTester = new RuleTester({
-  parserOptions: { ecmaVersion: 2015, sourceType: 'module' },
-});
+const ruleTester = new AvaRuleTester(test);
 
 ruleTester.run('no-sinon-stub-with-args-oneliner', rule, {
   valid: [

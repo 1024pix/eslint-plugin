@@ -1,6 +1,5 @@
-'use strict';
-const noSinonStubWithArgsOneliner = require('./rules/no-sinon-stub-with-args-oneliner.js');
+import noSinonStubWithArgsOneliner from './rules/no-sinon-stub-with-args-oneliner.js';
 
-module.exports = {
+export default {
   rules: { 'no-sinon-stub-with-args-oneliner': noSinonStubWithArgsOneliner },
 };
