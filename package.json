@@ -4,7 +4,9 @@
   "description": "Des règles de lint pour les projets 1024pix",
   "main": "index.js",
   "scripts": {
-    "test": "node rules/*.test.js"
+    "test:plugin": "node rules/*.test.js",
+    "test:config": "node json/*.test.js",
+    "test": "npm run test:plugin && npm run test:config"
   },
   "devDependencies": {
     "eslint": "^8.57.0"
