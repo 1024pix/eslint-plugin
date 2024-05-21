@@ -7,6 +7,6 @@
     "test": "node rules/*.test.js"
   },
   "devDependencies": {
-    "eslint": "^8.50.0"
+    "eslint": "^8.57.0"
   }
 }
