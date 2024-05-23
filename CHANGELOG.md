@@ -1,3 +1,9 @@
+# [1.2.0](https://github.com/1024pix/eslint-plugin/compare/v1.1.3...v1.2.0) (2024-05-23)
+
+### :rocket: Amélioration
+
+- [#22](https://github.com/1024pix/eslint-plugin/pull/22) Supporter la Flat config ESLint
+
 ## [1.1.3](https://github.com/1024pix/eslint-plugin/compare/v1.1.2...v1.1.3) (2024-05-14)
 
 ### :arrow_up: Montée de version
