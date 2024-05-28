@@ -7,14 +7,10 @@
     "./config": "./config.js"
   },
   "scripts": {
-    "test:plugin": "node rules/*.test.js",
-    "test:config": "node json/*.test.js",
-    "test": "npm run test:plugin && npm run test:config"
+    "test": "node rules/*.test.js"
   },
   "dependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "^4.3.0",
-    "@eslint/compat": "^1.0.1",
-    "eslint-plugin-i18n-json": "^4.0.0",
     "eslint-plugin-simple-import-sort": "^12.1.0",
     "eslint-plugin-yml": "^1.14.0"
   },
