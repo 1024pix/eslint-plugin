@@ -1,11 +1,9 @@
 const { resolve } = require('node:path');
 
 const js = require('@eslint/js');
-const { fixupPluginRules } = require('@eslint/compat');
 const comments = require('@eslint-community/eslint-plugin-eslint-comments/configs');
 const eslintPluginYml = require('eslint-plugin-yml');
 const simpleImportSort = require('eslint-plugin-simple-import-sort');
-const i18nJson = require('eslint-plugin-i18n-json');
 const pixPlugin = require('./index.js');
 
 module.exports = [
@@ -14,7 +12,6 @@ module.exports = [
   comments.recommended,
   {
     plugins: {
-      'i18n-json': fixupPluginRules(i18nJson),
       '@1024pix': pixPlugin,
       'simple-import-sort': simpleImportSort,
     },
@@ -94,12 +91,6 @@ module.exports = [
         {
           prefer: 'single',
           avoidEscape: true,
-        },
-      ],
-      'i18n-json/sorted-keys': [
-        'error',
-        {
-          sortFunctionPath: resolve(__dirname, './json/sort-translations.js'),
         },
       ],
       '@1024pix/no-sinon-stub-with-args-oneliner': 'error',
