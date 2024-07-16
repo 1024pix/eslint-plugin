@@ -1,3 +1,9 @@
+# [1.3.0](https://github.com/1024pix/eslint-plugin/compare/v1.2.2...v1.3.0) (2024-07-16)
+
+### :rocket: Amélioration
+
+- [#25](https://github.com/1024pix/eslint-plugin/pull/25) Ajout d'une règle forcant l'ajout d'un commentaire sur les colonnes.
+
 ## [1.2.2](https://github.com/1024pix/eslint-plugin/compare/v1.2.1...v1.2.2) (2024-07-16)
 
 ### :bug: Correction
