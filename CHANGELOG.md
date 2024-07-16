@@ -1,3 +1,9 @@
+## [1.2.2](https://github.com/1024pix/eslint-plugin/compare/v1.2.1...v1.2.2) (2024-07-16)
+
+### :bug: Correction
+
+- [#24](https://github.com/1024pix/eslint-plugin/pull/24) Accepter l'utilisation de Fetch
+
 ## [1.2.1](https://github.com/1024pix/eslint-plugin/compare/v1.2.0...v1.2.1) (2024-05-29)
 
 # [1.2.0](https://github.com/1024pix/eslint-plugin/compare/v1.1.3...v1.2.0) (2024-05-23)
