@@ -87,6 +87,7 @@ module.exports = [
         },
       ],
       '@1024pix/no-sinon-stub-with-args-oneliner': 'error',
+      '@1024pix/no-column-migration-without-comment': 'error',
     },
   },
 ];
