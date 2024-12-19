@@ -1,3 +1,27 @@
+# [2.0.0](https://github.com/1024pix/eslint-plugin/compare/v1.3.0...v2.0.0) (2024-12-19)
+
+### :boom: BREAKING CHANGE
+
+- [#13](https://github.com/1024pix/eslint-plugin/pull/13) Montée de version d'ESLint en V9 
+
+### :rewind: Retour en arrière
+
+- [#33](https://github.com/1024pix/eslint-plugin/pull/33) Update dependency node to v20.17.0
+
+### :arrow_up: Montée de version
+
+- [#31](https://github.com/1024pix/eslint-plugin/pull/31) Lock file maintenance 
+- [#43](https://github.com/1024pix/eslint-plugin/pull/43) Lock file maintenance (dossier racine) 
+- [#42](https://github.com/1024pix/eslint-plugin/pull/42) Lock file maintenance (dossier racine) 
+- [#40](https://github.com/1024pix/eslint-plugin/pull/40) Lock file maintenance (dossier racine) 
+- [#39](https://github.com/1024pix/eslint-plugin/pull/39) Lock file maintenance (dossier racine) 
+- [#37](https://github.com/1024pix/eslint-plugin/pull/37) Lock file maintenance (dossier racine) 
+- [#30](https://github.com/1024pix/eslint-plugin/pull/30) Update dependency node to v20.16.0 
+- [#34](https://github.com/1024pix/eslint-plugin/pull/34) Update dependency node to v20.17.0 
+- [#32](https://github.com/1024pix/eslint-plugin/pull/32) Update dependency node to v20.17.0 
+- [#36](https://github.com/1024pix/eslint-plugin/pull/36) Update dependency node to v20.18.0 
+- [#41](https://github.com/1024pix/eslint-plugin/pull/41) Update Node.js to v20.18.1
+
 # [1.3.0](https://github.com/1024pix/eslint-plugin/compare/v1.2.2...v1.3.0) (2024-07-16)
 
 ### :rocket: Amélioration
