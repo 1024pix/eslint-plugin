@@ -7,7 +7,7 @@
 ### Install
 
 ```bash
-npm install --save-dev eslint@^8 @1024pix/eslint-plugin
+npm install --save-dev eslint@^9 @1024pix/eslint-plugin
 ```
 
 ### Config `eslint.config.cjs`
