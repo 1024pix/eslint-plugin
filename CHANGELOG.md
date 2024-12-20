@@ -1,3 +1,9 @@
+## [2.0.1](https://github.com/1024pix/eslint-plugin/compare/v2.0.0...v2.0.1) (2024-12-20)
+
+### :bug: Correction
+
+- [#44](https://github.com/1024pix/eslint-plugin/pull/44) Conversion de la config en ESM
+
 # [2.0.0](https://github.com/1024pix/eslint-plugin/compare/v1.3.0...v2.0.0) (2024-12-19)
 
 ### :boom: BREAKING CHANGE
