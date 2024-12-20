@@ -1,12 +1,10 @@
-const { resolve } = require('node:path');
+import js from '@eslint/js';
+import comments from '@eslint-community/eslint-plugin-eslint-comments/configs';
+import eslintPluginYml from 'eslint-plugin-yml';
+import simpleImportSort from 'eslint-plugin-simple-import-sort';
+import pixPlugin from './index.js';
 
-const js = require('@eslint/js');
-const comments = require('@eslint-community/eslint-plugin-eslint-comments/configs');
-const eslintPluginYml = require('eslint-plugin-yml');
-const simpleImportSort = require('eslint-plugin-simple-import-sort');
-const pixPlugin = require('./index.js');
-
-module.exports = [
+export default [
   js.configs.recommended,
   ...eslintPluginYml.configs['flat/standard'],
   comments.recommended,
