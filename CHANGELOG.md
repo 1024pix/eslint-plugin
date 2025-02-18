@@ -1,3 +1,9 @@
+# [2.1.0](https://github.com/1024pix/eslint-plugin/compare/v2.0.6...v2.1.0) (2025-02-18)
+
+### :rocket: Amélioration
+
+- [#49](https://github.com/1024pix/eslint-plugin/pull/49) Ajouter un saut de ligne entre les éléments
+
 ## [2.0.6](https://github.com/1024pix/eslint-plugin/compare/v2.0.5...v2.0.6) (2025-02-17)
 
 ### :arrow_up: Montée de version
