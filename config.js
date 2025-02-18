@@ -56,6 +56,12 @@ export default [
       ],
       'no-var': ['error'],
       'object-curly-spacing': ['error', 'always'],
+      'padding-line-between-statements': [
+        'error',
+        { blankLine: 'always', prev: 'block', next: 'block' },
+        { blankLine: 'always', prev: 'function', next: 'function' },
+        { blankLine: 'always', prev: 'class', next: 'function' }
+      ],
       'prefer-const': ['error'],
       quotes: ['error', 'single'],
       semi: ['error', 'always'],
