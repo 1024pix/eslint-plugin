@@ -1,3 +1,9 @@
+## [2.1.2](https://github.com/1024pix/eslint-plugin/compare/v2.1.1...v2.1.2) (2025-04-16)
+
+### :arrow_up: Montée de version
+
+- [#38](https://github.com/1024pix/eslint-plugin/pull/38) Update Node.js to v22
+
 ## [2.1.1](https://github.com/1024pix/eslint-plugin/compare/v2.1.0...v2.1.1) (2025-03-20)
 
 ### :arrow_up: Montée de version
