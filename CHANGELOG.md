@@ -1,3 +1,9 @@
+## [2.1.9](https://github.com/1024pix/eslint-plugin/compare/v2.1.8...v2.1.9) (2025-09-03)
+
+### :arrow_up: Montée de version
+
+- [#58](https://github.com/1024pix/eslint-plugin/pull/58) Update actions/checkout action to v5 (workflows)
+
 ## [2.1.8](https://github.com/1024pix/eslint-plugin/compare/v2.1.7...v2.1.8) (2025-08-07)
 
 ### :arrow_up: Montée de version
