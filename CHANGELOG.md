@@ -1,3 +1,9 @@
+## [2.1.11](https://github.com/1024pix/eslint-plugin/compare/v2.1.10...v2.1.11) (2025-09-05)
+
+### :arrow_up: Montée de version
+
+- [#60](https://github.com/1024pix/eslint-plugin/pull/60) Update actions/setup-node action to v5 (workflows)
+
 ## [2.1.10](https://github.com/1024pix/eslint-plugin/compare/v2.1.9...v2.1.10) (2025-09-03)
 
 ### :arrow_up: Montée de version
