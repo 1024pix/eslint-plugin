@@ -14,6 +14,7 @@ export default [
       'simple-import-sort': simpleImportSort,
     },
     rules: {
+      'no-console': 'error',
       'arrow-parens': ['error', 'always'],
       'comma-dangle': ['error', 'always-multiline'],
       'computed-property-spacing': ['error', 'never'],
