@@ -58,7 +58,7 @@ Sure, you can override the rules in your `eslint.config.js` file.
 const pixEslintConfig = require('@1024pix/eslint-plugin/config');
 
 module.exports = [
-  ...eslintConfig,
+  ...pixEslintConfig,
   {
     rules: {
       // your rules...
