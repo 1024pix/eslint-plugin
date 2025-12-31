@@ -1,3 +1,19 @@
+## [2.1.15](https://github.com/1024pix/eslint-plugin/compare/v2.1.14...v2.1.15) (2025-12-31)
+
+### :building_construction: Tech
+
+- [#67](https://github.com/1024pix/eslint-plugin/pull/67) Mise en place du trusted publishing de npm 
+
+### :arrow_up: Montée de version
+
+- [#66](https://github.com/1024pix/eslint-plugin/pull/66) Update actions/checkout action to v6 (workflows) 
+- [#62](https://github.com/1024pix/eslint-plugin/pull/62) Update actions/setup-node action to v6 (workflows) 
+- [#65](https://github.com/1024pix/eslint-plugin/pull/65) Update Node.js to v24 
+
+### :coffee: Autre
+
+- [#68](https://github.com/1024pix/eslint-plugin/pull/68) Active la règle interdisant les `console.xx`.
+
 ## [2.1.14](https://github.com/1024pix/eslint-plugin/compare/v2.1.13...v2.1.14) (2025-11-04)
 
 ### :arrow_up: Montée de version
