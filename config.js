@@ -15,27 +15,7 @@ export default [
     },
     rules: {
       'no-console': 'error',
-      'arrow-parens': ['error', 'always'],
-      'comma-dangle': ['error', 'always-multiline'],
-      'computed-property-spacing': ['error', 'never'],
-      'eol-last': ['error'],
       '@eslint-community/eslint-comments/no-unused-disable': ['error'],
-      indent: [
-        'error',
-        2,
-        {
-          SwitchCase: 1,
-        },
-      ],
-      'keyword-spacing': ['error'],
-      'linebreak-style': ['error', 'unix'],
-      'no-multiple-empty-lines': [
-        'error',
-        {
-          max: 1,
-          maxEOF: 1,
-        },
-      ],
       'no-restricted-syntax': [
         'error',
         {
@@ -56,34 +36,9 @@ export default [
         },
       ],
       'no-var': ['error'],
-      'object-curly-spacing': ['error', 'always'],
-      'padding-line-between-statements': [
-        'error',
-        { blankLine: 'always', prev: 'block', next: 'block' },
-        { blankLine: 'always', prev: 'function', next: 'function' },
-        { blankLine: 'always', prev: 'class', next: 'function' }
-      ],
       'prefer-const': ['error'],
-      quotes: ['error', 'single'],
-      semi: ['error', 'always'],
       'simple-import-sort/imports': 'error',
       'simple-import-sort/exports': 'error',
-      'space-before-blocks': ['error'],
-      'space-before-function-paren': [
-        'error',
-        {
-          anonymous: 'never',
-          named: 'never',
-          asyncArrow: 'ignore',
-        },
-      ],
-      'space-in-parens': ['error'],
-      'space-infix-ops': ['error'],
-      'func-call-spacing': ['error'],
-      'key-spacing': ['error'],
-      'comma-spacing': ['error'],
-      'no-trailing-spaces': ['error'],
-      'no-multi-spaces': ['error'],
       'yml/quotes': [
         'error',
         {
