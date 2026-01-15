@@ -1,3 +1,9 @@
+## [2.1.16](https://github.com/1024pix/eslint-plugin/compare/v2.1.15...v2.1.16) (2026-01-15)
+
+### :building_construction: Tech
+
+- [#69](https://github.com/1024pix/eslint-plugin/pull/69) Supprime les règles de formattage dépréciées.
+
 ## [2.1.15](https://github.com/1024pix/eslint-plugin/compare/v2.1.14...v2.1.15) (2025-12-31)
 
 ### :building_construction: Tech
