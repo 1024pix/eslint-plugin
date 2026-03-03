@@ -1,6 +1,6 @@
 {
   "name": "@1024pix/eslint-plugin",
-  "version": "2.1.18",
+  "version": "2.1.19",
   "description": "Des règles de lint pour les projets 1024pix",
   "type": "module",
   "engines": {
