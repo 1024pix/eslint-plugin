@@ -1,3 +1,9 @@
+# [3.0.0](https://github.com/1024pix/eslint-plugin/compare/v2.1.21...v3.0.0) (2026-08-06)
+
+### :boom: BREAKING CHANGE
+
+- [#79](https://github.com/1024pix/eslint-plugin/pull/79) Montée de version d'eslint-plugin-yml en v3
+
 ## [2.1.21](https://github.com/1024pix/eslint-plugin/compare/v2.1.20...v2.1.21) (2026-07-28)
 
 ### :arrow_up: Montée de version
