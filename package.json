@@ -15,13 +15,13 @@
   },
   "dependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "^4.4.1",
-    "@eslint/js": "^9.39.0",
+    "@eslint/js": "^10.0.0",
     "eslint-plugin-simple-import-sort": "^14.0.0",
     "eslint-plugin-yml": "^3.0.0"
   },
   "devDependencies": {
     "ava": "^8.0.0",
-    "eslint": "^9.39.0",
+    "eslint": "^10.0.0",
     "eslint-ava-rule-tester": "^5.0.1"
   },
   "peerDependencies": {
