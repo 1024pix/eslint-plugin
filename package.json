@@ -20,7 +20,7 @@
     "eslint-plugin-yml": "^3.0.0"
   },
   "devDependencies": {
-    "ava": "^7.0.0",
+    "ava": "^8.0.0",
     "eslint": "^9.39.0",
     "eslint-ava-rule-tester": "^5.0.1"
   },
