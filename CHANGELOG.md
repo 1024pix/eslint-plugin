@@ -1,3 +1,9 @@
+## [3.0.1](https://github.com/1024pix/eslint-plugin/compare/v3.0.0...v3.0.1) (2026-08-06)
+
+### :arrow_up: Montée de version
+
+- [#78](https://github.com/1024pix/eslint-plugin/pull/78) Update actions/checkout action to v7 (workflows)
+
 # [3.0.0](https://github.com/1024pix/eslint-plugin/compare/v2.1.21...v3.0.0) (2026-08-06)
 
 ### :boom: BREAKING CHANGE
