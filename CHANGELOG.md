@@ -1,3 +1,9 @@
+## [3.0.5](https://github.com/1024pix/eslint-plugin/compare/v3.0.4...v3.0.5) (2026-10-12)
+
+### :building_construction: Tech
+
+- [#87](https://github.com/1024pix/eslint-plugin/pull/87) Update renovate config to extend multiple presets
+
 ## [3.0.4](https://github.com/1024pix/eslint-plugin/compare/v3.0.3...v3.0.4) (2026-08-06)
 
 ### :arrow_up: Montée de version
