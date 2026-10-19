@@ -1,3 +1,9 @@
+## [3.0.7](https://github.com/1024pix/eslint-plugin/compare/v3.0.6...v3.0.7) (2026-10-19)
+
+### :arrow_up: Montée de version
+
+- [#90](https://github.com/1024pix/eslint-plugin/pull/90) Pin dependency ava to 8.0.1 (dossier racine)
+
 ## [3.0.6](https://github.com/1024pix/eslint-plugin/compare/v3.0.5...v3.0.6) (2026-10-13)
 
 ### :arrow_up: Montée de version
