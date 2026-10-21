@@ -1,3 +1,9 @@
+## [3.0.10](https://github.com/1024pix/eslint-plugin/compare/v3.0.9...v3.0.10) (2026-10-21)
+
+### :arrow_up: Montée de version
+
+- [#89](https://github.com/1024pix/eslint-plugin/pull/89) Pin dependencies (dossier racine)
+
 ## [3.0.9](https://github.com/1024pix/eslint-plugin/compare/v3.0.8...v3.0.9) (2026-10-21)
 
 ### :arrow_up: Montée de version
