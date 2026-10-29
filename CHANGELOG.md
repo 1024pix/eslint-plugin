@@ -1,3 +1,9 @@
+## [3.0.16](https://github.com/1024pix/eslint-plugin/compare/v3.0.15...v3.0.16) (2026-10-29)
+
+### :arrow_up: Montée de version
+
+- [#92](https://github.com/1024pix/eslint-plugin/pull/92) Pin dependencies (workflows)
+
 ## [3.0.15](https://github.com/1024pix/eslint-plugin/compare/v3.0.14...v3.0.15) (2026-10-27)
 
 ### :arrow_up: Montée de version
