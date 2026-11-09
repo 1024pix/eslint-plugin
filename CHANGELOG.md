@@ -1,3 +1,9 @@
+## [3.0.22](https://github.com/1024pix/eslint-plugin/compare/v3.0.21...v3.0.22) (2026-11-09)
+
+### :arrow_up: Montée de version
+
+- [#106](https://github.com/1024pix/eslint-plugin/pull/106) Update dependency eslint to v10.14.0 (dossier racine)
+
 ## [3.0.21](https://github.com/1024pix/eslint-plugin/compare/v3.0.20...v3.0.21) (2026-11-09)
 
 ### :arrow_up: Montée de version
