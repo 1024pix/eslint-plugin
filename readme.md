@@ -48,6 +48,32 @@ Install [VS Code ESLint extension](https://marketplace.visualstudio.com/items?it
 }
 ```
 
+## Optional rules
+
+These rules are shipped by the plugin but not enabled by the shared config.
+
+### `@1024pix/no-linear-lookup-in-loop`
+
+Reports an equality lookup (`find`, `filter`, `findIndex`, `some`, `every`…) nested in a loop when it compares against a variable of that loop. Such a join costs O(n × m).
+
+```js
+// ✗ one scan of `rows` per id
+ids.map((id) => rows.find((row) => row.id === id));
+
+// ✓ one pass to index, then one read per id
+const rowsById = new Map(rows.map((row) => [row.id, row]));
+ids.map((id) => rowsById.get(id));
+```
+
+Enable it where both collections grow with the data, for example:
+
+```js
+{
+  files: ['src/**/repositories/**/*.js', 'src/**/usecases/**/*.js'],
+  rules: { '@1024pix/no-linear-lookup-in-loop': 'error' },
+}
+```
+
 ## FAQ
 
 ### I prefer XXX...
