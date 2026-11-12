@@ -1,3 +1,9 @@
+# [3.1.0](https://github.com/1024pix/eslint-plugin/compare/v3.0.22...v3.1.0) (2026-11-12)
+
+### :rocket: Amélioration
+
+- [#107](https://github.com/1024pix/eslint-plugin/pull/107) Ajout de la règle no-linear-lookup-in-loop.
+
 ## [3.0.22](https://github.com/1024pix/eslint-plugin/compare/v3.0.21...v3.0.22) (2026-11-09)
 
 ### :arrow_up: Montée de version
