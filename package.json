@@ -4,7 +4,7 @@
   "description": "Des règles de lint pour les projets 1024pix",
   "type": "module",
   "engines": {
-    "node": "^20.19 || ^22.13 || ^24"
+    "node": "^20.19 || ^22.13 || ^24 || ^26.0.0"
   },
   "exports": {
     ".": "./index.js",
