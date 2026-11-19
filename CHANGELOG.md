@@ -1,3 +1,9 @@
+## [3.1.3](https://github.com/1024pix/eslint-plugin/compare/v3.1.2...v3.1.3) (2026-11-19)
+
+### :arrow_up: Montée de version
+
+- [#111](https://github.com/1024pix/eslint-plugin/pull/111) Update Node.js to v26
+
 ## [3.1.2](https://github.com/1024pix/eslint-plugin/compare/v3.1.1...v3.1.2) (2026-11-18)
 
 ### :arrow_up: Montée de version
