@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "ava": "8.4.0",
-    "eslint": "10.14.0",
+    "eslint": "10.15.0",
     "eslint-ava-rule-tester": "5.0.1"
   },
   "peerDependencies": {
